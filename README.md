@@ -11,8 +11,8 @@
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank"></a>
-<a href="https://www.kaggle.com/mohammedinfas" target="blank"></a>
+<a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank">LinkedIn</a>
+<a href="https://www.kaggle.com/mohammedinfas" target="blank">Keggle</a>
 </p>
 
 

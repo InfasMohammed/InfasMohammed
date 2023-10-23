@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Infas</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-<img alt="coding" width="350" align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif"/>
+<img alt="coding" width="350" align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif"/></br>
 
 - 🌱 I’m graduated *BEng (Hons) in Software Engineering at London Metropolitan University*
 
@@ -10,22 +10,20 @@
 - 😜 *happy with coding* 
 
 <h3 align="left">🌍 Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank">LinkedIn</a>
-<a href="https://www.kaggle.com/mohammedinfas" target="blank">Keggle</a>
+<a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohammedinfas" target="blank"><img align="center" src"https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30" width="40"/></a>
 </p>
 
 
 <h3 align="left">🛠 Languages and Tools:</h3>
-
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,tensorflow,py,pytorch,LLM,langchain)](https://skillicons.dev)
 
 <h3 align="left">🏆 Github Status:</h3>
 <p align="left">
 
-
-  
 [![GitHub Streak](https://streak-stats.demolab.com?user=InfasMohammed&background=0f222b&ring=f0c726&currStreakNum=fef9d7&sideNums=fef9d7&currStreakLabel=01d293&sideLabels=01d293&dates=fef9d7&hide_border=true&border_radius=10)](https://git.io/streak-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfasMohammed&show_icons=true&bg_color=0f222b&title_color=01d293&text_color=fef9d7&icon_color=f0883e&ring_color=f0c726&card_width=50%&hide_border=true&border_radius=10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfasMohammed&layout=compact&bg_color=0f222b&title_color=01d293&text_color=fef9d7&langs_count=10&hide_border=true&border_radius=10)](https://github.com/ZiyahulAnsath/github-readme-stats)

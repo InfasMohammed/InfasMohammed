@@ -16,7 +16,7 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,Tensorflow,python,pytorch,LLM,langchain)](https://skillicons.dev)
 
 <h3 align="left">🏆 Github Status:</h3>
 <p align="left">

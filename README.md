@@ -12,12 +12,11 @@
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank"></a>
-<a href=" https://www.kaggle.com/mohammedinfas" target="blank"></a>
+<a href="https://www.kaggle.com/mohammedinfas" target="blank"></a>
 </p>
 
 
 <h3 align="left">🛠 Languages and Tools:</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,tensorflow,py,pytorch,LLM,langchain)](https://skillicons.dev)
 
 <h3 align="left">🏆 Github Status:</h3>

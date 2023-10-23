@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Infas</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-<img alt="coding" width="400" align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif"/>
+<img alt="coding" width="350" align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif"/>
 
 - 🌱 I’m graduated *BEng (Hons) in Software Engineering at London Metropolitan University*
 

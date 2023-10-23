@@ -3,9 +3,6 @@
 
 <img alt="coding" width="400" align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif"/>
 
-
-
-
 - 🌱 I’m graduated *BEng (Hons) in Software Engineering at London Metropolitan University*
 
 - 📫 How to reach me *infasmohamed2018@gmail.com*
@@ -16,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank"></a>
 </p>
+
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 

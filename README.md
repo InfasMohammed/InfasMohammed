@@ -3,11 +3,14 @@
 
 <img alt="coding" width="400" align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif"/>
 
+
+
+
 - 🌱 I’m graduated *BEng (Hons) in Software Engineering at London Metropolitan University*
 
 - 📫 How to reach me *infasmohamed2018@gmail.com*
 
-- 😜 Fun fact *I think I am Funny* 
+- 😜 Fun fact ** 
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">

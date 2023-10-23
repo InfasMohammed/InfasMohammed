@@ -7,8 +7,7 @@
 
 - 📫 How to reach me *infasmohamed2018@gmail.com*
 
-- 😜 Fun fact ** 
-
+- 😜 *happy with coding* 
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">

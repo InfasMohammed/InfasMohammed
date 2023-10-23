@@ -11,12 +11,12 @@
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/ziyahul-ansath-585b01206" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-infas-9a52b9203/" target="blank"></a>
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,Tensorflow,python,pytorch,LLM,langchain)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,tensorflow,py,pytorch,LLM,langchain)](https://skillicons.dev)
 
 <h3 align="left">🏆 Github Status:</h3>
 <p align="left">

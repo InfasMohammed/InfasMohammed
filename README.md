@@ -26,6 +26,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfasMohammed&show_icons=true&bg_color=0f222b&title_color=01d293&text_color=fef9d7&icon_color=f0883e&ring_color=f0c726&card_width=50%&hide_border=true&border_radius=10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfasMohammed&layout=compact&bg_color=0f222b&title_color=01d293&text_color=fef9d7&langs_count=10&hide_border=true&border_radius=10)](https://github.com/ZiyahulAnsath/github-readme-stats)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=InfasMohammed&margin-w=15&margin-h=15)](https://github.com/ZiyahulAnsath/github-profile-trophy)
+
+
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 
@@ -36,5 +40,4 @@
 
 
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=InfasMohammed&margin-w=15&margin-h=15)](https://github.com/ZiyahulAnsath/github-profile-trophy)
 </p>

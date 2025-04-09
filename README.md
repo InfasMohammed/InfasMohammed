@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Infas</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate AI/Machine Learning Engineer</h3>
 
 - 🌱 I’m graduated *BEng (Hons) in Software Engineering at London Metropolitan University*
 

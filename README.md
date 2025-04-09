@@ -6,8 +6,7 @@
 - 📫 How to reach me *infasmohamed2018@gmail.com*
 
 - 😜 *A highly motivated AI & Machine Learning Engineer with over 5 years of industry experience, specializing in Natural Language Processing (NLP), Large Language Models (LLMs), AI-driven automation, and cloud-based AI solutions. Passionate about solving real-world problems through cutting-edge AI research and development, while leveraging the latest advancements in Deep Learning and Generative AI.*
-
-*Expert in no-code/low-code tools such as Make.com, Zapier, n8n, and Airtable, with a strong focus on building scalable, efficient automation systems that bridge operational needs with AI-driven intelligence.* 
+- *Expert in no-code/low-code tools such as Make.com, Zapier, n8n, and Airtable, with a strong focus on building scalable, efficient automation systems that bridge operational needs with AI-driven intelligence.* 
 
 <h3 align="left">🌍 Connect with me:</h3>
 

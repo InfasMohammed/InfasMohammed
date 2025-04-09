@@ -33,6 +33,6 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,tensorflow,py,pytorch,LLM,langchain,Make.com,Zapier,n8n,Airtable)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,androidstudio,visualstudio,dotnet,vscode,html,css,bootstrap,js,linux,git,github,postman,mongodb,aws,mysql,tensorflow,py,pytorch,LLM,langchain,Airtable)](https://skillicons.dev)
  
 </p>

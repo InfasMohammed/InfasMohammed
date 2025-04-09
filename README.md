@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Infas</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-<img alt="coding" width="350" align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif"/></br>
-
 - 🌱 I’m graduated *BEng (Hons) in Software Engineering at London Metropolitan University*
 
 - 📫 How to reach me *infasmohamed2018@gmail.com*
 
-- 😜 *A highly motivated AI & Machine Learning Engineer with over 5 years of industry experience, specializing in Natural Language Processing (NLP), Large Language Models (LLMs), AI-driven automation, and cloud-based AI solutions. Passionate about solving real-world problems through cutting-edge AI research and development, while leveraging the latest advancements in Deep Learning and Generative AI.
+- 😜 *A highly motivated AI & Machine Learning Engineer with over 5 years of industry experience, specializing in Natural Language Processing (NLP), Large Language Models (LLMs), AI-driven automation, and cloud-based AI solutions. Passionate about solving real-world problems through cutting-edge AI research and development, while leveraging the latest advancements in Deep Learning and Generative AI.*
 
-Expert in no-code/low-code tools such as Make.com, Zapier, n8n, and Airtable, with a strong focus on building scalable, efficient automation systems that bridge operational needs with AI-driven intelligence.* 
+*Expert in no-code/low-code tools such as Make.com, Zapier, n8n, and Airtable, with a strong focus on building scalable, efficient automation systems that bridge operational needs with AI-driven intelligence.* 
 
 <h3 align="left">🌍 Connect with me:</h3>
 
